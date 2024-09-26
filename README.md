@@ -6,4 +6,4 @@ generators were also run different amounts of times to show that more iterations
 
 I also tested IBM's remote 127-qubit quantum simulator, using the IBM Kyoto backend provider
 
-see `porocilo.html` for the full report
+see `main.ipynb` for the full report
